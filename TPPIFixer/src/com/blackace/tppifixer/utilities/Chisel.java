@@ -47,6 +47,13 @@ public class Chisel {
 		
 		return i;
 	}
-	
+
+	public static Inventory getDirt() {
+		Inventory i = Bukkit.createInventory(null, 18, "Choose a Block");
+		
+		i.setItem
+		
+		return i;
+	}
 
 }

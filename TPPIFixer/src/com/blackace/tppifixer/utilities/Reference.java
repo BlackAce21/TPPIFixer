@@ -8,9 +8,37 @@ public class Reference {
 	
 	//Dirt
 	public static final ItemStack dirt = new ItemStack(Material.DIRT, 1);
+	public static final ItemStack dirtBricksDisarray = new ItemStack(2766, 1, (short) 1);
+	public static final ItemStack netherBrickDirt = new ItemStack(2766, 1, (short) 2);
+	public static final ItemStack dirtBricks = new ItemStack(2766, 1, (short) 3);
+	public static final ItemStack cobbleDirt = new ItemStack(2766, 1, (short) 4);
+	public static final ItemStack reinforcedCobbleDirt = new ItemStack(2766, 1, (short) 5);
+	public static final ItemStack reinforcedDirt = new ItemStack(2766, 1, (short) 6);
+	public static final ItemStack happyDirt = new ItemStack(2766, 1, (short) 7);
+	public static final ItemStack largeDirtBricks = new ItemStack(2766, 1, (short) 8);
+	public static final ItemStack largeBricksOnDirt = new ItemStack(2766, 1, (short) 9);
+	public static final ItemStack horizontalDirt = new ItemStack(2766, 1, (short) 10);
+	public static final ItemStack verticalDirt = new ItemStack(2766, 1, (short) 11);
+	public static final ItemStack dirtLayers = new ItemStack(2766, 1, (short) 12);
+	public static final ItemStack crumblingDirt = new ItemStack(2766, 1, (short) 13);
+	
 	
 	//Cobblestone
 	public static final ItemStack cobble = new ItemStack(Material.COBBLESTONE, 1);
+	public static final ItemStack alignedCobbleBricks = new ItemStack(2794, 1, (short) 1);
+	public static final ItemStack detailedCobbleBricks = new ItemStack(2794, 1, (short) 2);
+	public static final ItemStack smallCobbleBricks = new ItemStack(2794, 1, (short) 3);
+	public static final ItemStack largeCobbleTiles = new ItemStack(2794, 1, (short) 4);
+	public static final ItemStack smallCobbleTiles = new ItemStack(2794, 1, (short) 5);
+	public static final ItemStack frenchCobbleTiles = new ItemStack(2794, 1, (short) 6);
+	public static final ItemStack frenchCobbleTiles2 = new ItemStack(2794, 1, (short) 7);
+	public static final ItemStack creeperCobbleTiles = new ItemStack(2794, 1, (short) 8);
+	public static final ItemStack damagedCobbleTiles = new ItemStack(2794, 1, (short) 9);
+	public static final ItemStack hugeCobbleTiles = new ItemStack(2794, 1, (short) 10);
+	public static final ItemStack creeperPanelCobble = new ItemStack(2794, 1, (short) 11);
+	public static final ItemStack cobbleDent = new ItemStack(2794, 1, (short) 12);
+	public static final ItemStack cobblePanel = new ItemStack(2794, 1, (short) 13);
+	
 	
 	//Oak Wood Planks
 	public static final ItemStack oakPlank = new ItemStack(Material.WOOD, 1);
